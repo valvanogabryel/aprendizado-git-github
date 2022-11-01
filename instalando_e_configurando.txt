@@ -1,0 +1,3 @@
+ baixar git em uma versão compatível com seu sistema através do site. 
+ git --config user.name seunomegithub
+ git --cofing user.email seuemailgithub@gmail.com
