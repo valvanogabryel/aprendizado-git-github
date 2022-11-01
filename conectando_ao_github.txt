@@ -1,0 +1,14 @@
+git remote add origin https://linkparaseurepositórioremoto.com
+
+^
+|
+
+adiciona em HTTPS (mais fácil, menos seguro);
+
+git remote add origin git@github.com:seuusuario/seurepositorio.git
+
+^
+|
+
+adiciona em SSH (mais "difícil", mais seguro);
+
