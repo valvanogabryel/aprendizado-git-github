@@ -1,0 +1,8 @@
+para criar uma branch é necessário usar o comando:
+git checkout -b nome-da-branch;
+ou 
+git branch nome-da-branch;
+
+git merge nome-branch(main) -- Mesclar branchs distintas. Ou seja, adicionar à branch principal uma outra branch secundária.
+
+git branch -D nome-da-branch (teste) -- Deletar branch.
