@@ -1,0 +1,6 @@
+git init; -- Criar arquivo .git
+git add * ou git add nome-do-arquivo.formato; -- Adiciona um arquivo pendendo no meio intermediário (stage). Usar o "*" ou o "." vai adicionar todos os arquivos pendentes;
+git commit -m 'Mensagem'; -- Mensagem para elucidar o commit, como a criação de um novo arquivo ou a edição do mesmo.
+git push -u origin nome-branch (main); -- "Empurra" para o repositório remoto.
+git pull origin nome-branch (main); -- "Puxa" para o repositório local.
+git status -- Verificar o status do repositório local: arquivos pendentes, alterados, criados...
